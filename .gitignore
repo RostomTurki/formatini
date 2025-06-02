@@ -1,0 +1,32 @@
+# Ignore class files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+# Ignore document files
+*.odt
+*.pdf
+*.mwb
+
+# Ignore build directories
+/bin/
+/build/
+/out/
+
+# Ignore logs
+*.log
+
+# IDE specific files
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
